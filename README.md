@@ -20,7 +20,7 @@ Para rodar os exemplos deste repositório, você precisará de:
 
 No arquivo `create_tables.sql`, criamos duas tabelas: `Clientes` e `Pedidos`. O script contém instruções SQL para definir a estrutura dessas tabelas.
 
-#### Exemplo de Criação de Tabela
+#### Exemplo de Criação de Tabelas
 
 ```sql
 CREATE TABLE Clientes (
